@@ -14,3 +14,7 @@ Can we draw any comparisons?
 
 Then we could throw a new title into the machine and then say to what percentage the title is a top 10 hit or not.
 You could also continue to spin and watch why people listen to certain genres of music.
+
+##To do's
+1. Find a way to scan a song and estimate the Chords from it.
+2. compare the Songs and the Chords.
